@@ -73,7 +73,7 @@ The following components were implemented:
 ### Subnet Configuration
 
 ### Public Subnet
-![Public Subnet]()
+![Public Subnet](https://github.com/khusrawamiri1/aws-vpc-project/blob/855297df6d482b183f03dcbf59262fb724574c7c/screenshots/Public%20Subnet.jpeg)
 
 ### Private Subnet
 ![Private Subnet]()
