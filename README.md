@@ -68,7 +68,7 @@ The following components were implemented:
 ## 📸 Screenshots
 
 ### VPC Setup
-![VPC](screenshots/vpc.png)
+![VPC](https://github.com/khusrawamiri1/aws-vpc-project/blob/784fb36720e7b703ac928d7791b45e3d4b5199e0/screenshots/VPC.jpeg)
 
 ### Subnet Configuration
 ![Subnets](screenshots/subnets.png)
