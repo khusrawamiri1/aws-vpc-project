@@ -127,7 +127,7 @@ This instance is deployed in the private subnet and does NOT have direct interne
 - User connects to Public EC2 via SSH (port 22)
 - Public EC2 is used to access Private EC2 securely
 
-![SSH Access]()
+![SSH Access](https://github.com/khusrawamiri1/aws-vpc-project/blob/7393a568e1f12d777565219b42857c21e9dc18b5/screenshots/ssh%20Access.jpeg)
 
 ## 🎯 Key Skills Demonstrated
 
