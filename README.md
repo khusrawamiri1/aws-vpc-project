@@ -81,7 +81,7 @@ The following components were implemented:
 ### 🌍 Internet Gateway
 Provides internet access for resources in the public subnet.
 
-![Internet Gateway]()
+![Internet Gateway](https://github.com/khusrawamiri1/aws-vpc-project/blob/70c7f1dfa8c5c22884962d45826291ac475fb825/screenshots/internet-gateway.jpeg)
 
 ### 🚪 NAT Gateway
 Allows private subnet instances to access the internet securely without being directly exposed.
