@@ -86,7 +86,7 @@ Provides internet access for resources in the public subnet.
 ### 🚪 NAT Gateway
 Allows private subnet instances to access the internet securely without being directly exposed.
 
-![NAT Gateway]()
+![NAT Gateway](https://github.com/khusrawamiri1/aws-vpc-project/blob/5541ba94648dbb063a07d022e884a367d4b20525/screenshots/Nat%20Gateway.jpeg)
 
 
 ### EC2 Instances
