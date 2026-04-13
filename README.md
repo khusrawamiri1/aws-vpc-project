@@ -89,10 +89,19 @@ Allows private subnet instances to access the internet securely without being di
 ![NAT Gateway](https://github.com/khusrawamiri1/aws-vpc-project/blob/5541ba94648dbb063a07d022e884a367d4b20525/screenshots/Nat%20Gateway.jpeg)
 
 
-### EC2 Instances
-![EC2])
+## 💻 EC2 Instances
+
+### 🟢 Public EC2 Instance
+This instance is deployed in the public subnet and has internet access via Internet Gateway.
+
+![Public EC2]()
 
 ---
+
+### 🔒 Private EC2 Instance
+This instance is deployed in the private subnet and does NOT have direct internet access. It can reach the internet through NAT Gateway.
+
+![Private EC2]()
 
 ## 🎯 Key Skills Demonstrated
 
