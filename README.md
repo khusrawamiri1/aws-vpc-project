@@ -72,6 +72,11 @@ The following components were implemented:
 
 ### Subnet Configuration
 
+### Public Subnet
+![Public Subnet]()
+
+### Private Subnet
+![Private Subnet]()
 
 
 ### EC2 Instances
