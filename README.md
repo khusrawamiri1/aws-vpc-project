@@ -76,7 +76,7 @@ The following components were implemented:
 ![Public Subnet](https://github.com/khusrawamiri1/aws-vpc-project/blob/fc9efe888f3376878c7d36b9febedf89b77c2375/screenshots/Public%20Subnet.jpeg)
 
 ### 🔒 Private Subnet
-![Private Subnet]()
+![Private Subnet](https://github.com/khusrawamiri1/aws-vpc-project/blob/41f980a818ecd38f39eaa1479940354ae6e55c38/screenshots/Private%20Subnet.jpeg)
 
 ### 🌍 Internet Gateway
 Provides internet access for resources in the public subnet.
