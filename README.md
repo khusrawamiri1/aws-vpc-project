@@ -101,7 +101,7 @@ This instance is deployed in the public subnet and has internet access via Inter
 ### 🔒 Private EC2 Instance
 This instance is deployed in the private subnet and does NOT have direct internet access. It can reach the internet through NAT Gateway.
 
-![Private EC2]()
+![Private EC2](https://github.com/khusrawamiri1/aws-vpc-project/blob/9540295e50836257cfe03710509188a23f654e00/screenshots/Private%20EC2.jpeg)
 
 ## 🎯 Key Skills Demonstrated
 
