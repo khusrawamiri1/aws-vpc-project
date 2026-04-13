@@ -71,7 +71,12 @@ The following components were implemented:
 ![VPC](https://github.com/khusrawamiri1/aws-vpc-project/blob/784fb36720e7b703ac928d7791b45e3d4b5199e0/screenshots/VPC.jpeg)
 
 ### Subnet Configuration
-![Subnets](screenshots/subnets.png)
+
+### Public Subnet
+![Public Subnet](screenshots/public-subnet.jpeg)
+
+### Private Subnet
+![Private Subnet](screenshots/private-subnet.jpeg)
 
 ### EC2 Instances
 ![EC2](screenshots/ec2.png)
