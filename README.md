@@ -119,7 +119,7 @@ This instance is deployed in the private subnet and does NOT have direct interne
 - No direct internet access allowed
 - Attached to Private EC2 instance
 
-![Private SG]()
+![Private SG](https://github.com/khusrawamiri1/aws-vpc-project/blob/e4c7c2ee404c69fb2d5d3996feda467f18679fbe/screenshots/Private%20Security%20Group.jpeg)
 
 ---
 
