@@ -70,17 +70,27 @@ The following components were implemented:
 ### VPC Setup
 ![VPC](https://github.com/khusrawamiri1/aws-vpc-project/blob/784fb36720e7b703ac928d7791b45e3d4b5199e0/screenshots/VPC.jpeg)
 
-### Subnet Configuration
+## 🌐 Network Components
 
-### Public Subnet
-![Public Subnet](https://github.com/khusrawamiri1/aws-vpc-project/blob/855297df6d482b183f03dcbf59262fb724574c7c/screenshots/Public%20Subnet.jpeg)
+### 🟢 Public Subnet
+![Public Subnet]()
 
-### Private Subnet
-![Private Subnet](https://github.com/khusrawamiri1/aws-vpc-project/blob/e44b224c2af1c7aa281d806992dacd9304fcd3f6/screenshots/Private%20Subnet.jpeg)
+### 🔒 Private Subnet
+![Private Subnet]()
+
+### 🌍 Internet Gateway
+Provides internet access for resources in the public subnet.
+
+![Internet Gateway]()
+
+### 🚪 NAT Gateway
+Allows private subnet instances to access the internet securely without being directly exposed.
+
+![NAT Gateway]()
 
 
 ### EC2 Instances
-![EC2](screenshots/ec2.png)
+![EC2])
 
 ---
 
