@@ -94,7 +94,7 @@ Allows private subnet instances to access the internet securely without being di
 ### 🟢 Public EC2 Instance
 This instance is deployed in the public subnet and has internet access via Internet Gateway.
 
-![Public EC2]()
+![Public EC2](https://github.com/khusrawamiri1/aws-vpc-project/blob/ba179fb876b2099fe62218c16dc798856ea15afb/screenshots/Public%20EC2.jpeg)
 
 ---
 
