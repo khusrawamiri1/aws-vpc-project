@@ -103,6 +103,30 @@ This instance is deployed in the private subnet and does NOT have direct interne
 
 ![Private EC2](https://github.com/khusrawamiri1/aws-vpc-project/blob/9540295e50836257cfe03710509188a23f654e00/screenshots/Private%20EC2.jpeg)
 
+## 🔐 Security Groups Configuration
+
+### 🟢 Public Security Group
+- Allows SSH (port 22) access from the internet
+- Allows HTTP/HTTPS access if required
+- Attached to Public EC2 instance
+
+![Public SG]()
+
+---
+
+### 🔒 Private Security Group
+- Allows SSH access ONLY from Public EC2 (Bastion Host)
+- No direct internet access allowed
+- Attached to Private EC2 instance
+
+![Private SG]()
+
+---
+
+### 🔑 SSH Access Flow
+- User connects to Public EC2 via SSH (port 22)
+- Public EC2 is used to access Private EC2 securely
+
 ## 🎯 Key Skills Demonstrated
 
 - AWS VPC design and implementation
