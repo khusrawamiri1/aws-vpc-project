@@ -110,7 +110,7 @@ This instance is deployed in the private subnet and does NOT have direct interne
 - Allows HTTP/HTTPS access if required
 - Attached to Public EC2 instance
 
-![Public SG]()
+![Public SG](https://github.com/khusrawamiri1/aws-vpc-project/blob/3b81c1afc3b6ff0045be23b9250f8bd60c0156b2/screenshots/Public%20Security%20Group.jpeg)
 
 ---
 
